@@ -1,0 +1,14 @@
+regex
+requests
+python-etcd
+colorama
+pybind11
+boto3
+packaging
+ninja
+tqdm
+tensorboardX
+statsmodels==0.12.2
+pandas
+nltk
+sentencepiece
