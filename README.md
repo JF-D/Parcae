@@ -53,9 +53,13 @@ Parcae is built based on [DeepSpeed](https://github.com/microsoft/DeepSpeed). We
 
 ```
 @inproceedings{nsdi24parcae,
-  title={Parcae: Proactive, Liveput-Optimized DNN Training on Preemptible Instances},
-  author={Duan, Jiangfei and Song, Ziang and Miao, Xupeng and Xi, Xiaoli and Lin, Dahua and Xu, Harry and Zhang, Minjia and Jia, Zhihao}
-  booktitle={21th USENIX Symposium on Networked Systems Design and Implementation (NSDI 24)},
-  year={2024}
+  author = {Jiangfei Duan and Ziang Song and Xupeng Miao and Xiaoli Xi and Dahua Lin and Harry Xu and Minjia Zhang and Zhihao Jia},
+  title = {Parcae: Proactive, {Liveput-Optimized} {DNN} Training on Preemptible Instances},
+  booktitle = {21st USENIX Symposium on Networked Systems Design and Implementation (NSDI 24)},
+  year = {2024},
+  address = {Santa Clara, CA},
+  url = {https://www.usenix.org/conference/nsdi24/presentation/duan},
+  publisher = {USENIX Association},
+  month = apr
 }
 ```
